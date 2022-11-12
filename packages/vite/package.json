@@ -103,7 +103,7 @@
     "launch-editor-middleware": "^2.2.1",
     "magic-string": "^0.25.7",
     "mime": "^2.5.2",
-    "minimatch": "^3.0.4",
+    "minimatch": "^3.0.5",
     "okie": "^1.0.1",
     "open": "^8.2.1",
     "periscopic": "^2.0.3",
